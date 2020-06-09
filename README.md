@@ -1,6 +1,6 @@
 # Vanessa Theil's Modere Assignment
 
-This asignment uses a Postgres docker container as the SQL database. The SQL code found in `sql/modere-assignment.sql` has also been tested with MySQL.
+This assignment uses a Postgres docker container as the SQL database. The SQL code found in `sql/modere-assignment.sql` has also been tested with MySQL.
 
 ## Requirements
 | App    | Notes                                                                               | URL                                            |
