@@ -8,6 +8,6 @@ services:
     ports:
       - 5432:5432/tcp
     environment:
-        POSTGRES_PASSWORD: modere
+        POSTGRES_PASSWORD: example
     volumes:
-        - ${WORKSPACE}:/var/lib/postgresql/modere:rw
+        - ${WORKSPACE}:/var/lib/postgresql/example:rw
