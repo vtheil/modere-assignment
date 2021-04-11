@@ -1,6 +1,6 @@
 # Postgres Example
 
-This example uses a Postgres docker container as the SQL database. The SQL code found in `sql/modere-assignment.sql` has also been tested with MySQL.
+This example uses a Postgres docker container as the SQL database. The SQL code found in `sql/generate_database.sql` has also been tested with MySQL.
 
 ## Requirements
 | App    | Notes                                                                               | URL                                            |
